@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/FraudShield.Domain.Core/">
+    <Project Path="FraudShield.Domain.Core/FraudShield.Domain.Core.csproj" Id="4df2d73b-330e-4011-a817-c1f75317d246" />
+  </Folder>
+  <Folder Name="/FraudShield.Domain/">
+    <Project Path="FraudShield.Domain/FraudShield.Domain.csproj" />
+  </Folder>
+</Solution>
